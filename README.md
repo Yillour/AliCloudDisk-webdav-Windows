@@ -15,4 +15,6 @@ start.bat为启动程序bat，使用需将<Your refresh-token> 改为你在浏�
  如需将webdav以磁盘方式在windows挂载，个人使用raidrive（但更新后貌似有广告）
  
  在使用raidrive添加时地址默认为127.0.0.1:8088，**不要勾选地址选项**
+  
+  账号密码可以随意填写
 
